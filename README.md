@@ -13,9 +13,9 @@ You can install these packages using pip.
 ## Usage
 To use this code, follow these steps:
 
-Install the required packages using pip.
-Save the Excel file containing the sales data as supermarkt_sales.xlsx in the same directory as this Python script.
-Run the Python script using streamlit run [filename].py.
-The Streamlit application will open in a browser window.
-Use the sidebar to filter the data based on city, customer type, and gender.
-The dashboard will update based on your filter selections.
+1. Install the required packages using pip.
+2. Save the Excel file containing the sales data as supermarkt_sales.xlsx in the same directory as this Python script.
+3. Run the Python script using streamlit run [filename].py.
+4. The Streamlit application will open in a browser window.
+5. Use the sidebar to filter the data based on city, customer type, and gender.
+6. The dashboard will update based on your filter selections.
