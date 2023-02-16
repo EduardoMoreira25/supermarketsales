@@ -1,5 +1,5 @@
 # Sales Dashboard
-This code is a Streamlit application that reads an Excel file containing sales data, filters the data based on user-selected parameters, and displays the results in a dashboard. The dashboard displays the total sales, average rating, and average sales per transaction of the filtered data. It also shows the sales by product line and by hour in separate bar charts.
+This code is a Streamlit application that reads an Excel file containing sales data, filters the data based on user-selected parameters, and displays the results in a dashboard. The dashboard displays the total sales, average rating, and average sales per transaction of the filtered data. It also shows the sales by product line and by hour in separate bar charts and other KPI's.
 
 ## Requirements
 This code requires the following Python packages to be installed:
